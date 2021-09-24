@@ -20,7 +20,6 @@ function App() {
       </header>
       <p>The first commit adds this paragraph</p>
       <p>The second commit adds this text</p>
-      <p>The third commit adds this paragriph with some baaaaaxshd typos</p>
     </div>
   );
 }
