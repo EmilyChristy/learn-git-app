@@ -19,6 +19,7 @@ function App() {
         </a>
       </header>
       <p>The first commit adds this paragraph</p>
+      <p>The second commit adds this text</p>
     </div>
   );
 }
