@@ -18,6 +18,7 @@ function App() {
           git revert
         </a>
       </header>
+      <p>The first commit adds this paragraph</p>
     </div>
   );
 }
