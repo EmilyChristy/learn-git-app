@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 
+//DEveloped to demo git features
 function App() {
   return (
     <div className="App">
